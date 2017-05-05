@@ -1,0 +1,1 @@
+jspm install npm:@angular/core  npm:@angular/common  npm:@angular/compiler  npm:@angular/platform-browser-dynamic  npm:@angular/platform-browser npm:rxjs text reflect-metadata zone.js 

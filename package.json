@@ -1,0 +1,41 @@
+{
+  "name": "angular-2-komponenty",
+  "version": "1.0.0",
+  "description": "angular-2-komponenty",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkoKacprzak/angular-2-komponenty.git"
+  },
+  "keywords": [
+    "angular-2-komponenty"
+  ],
+  "author": "Marek Kacprzak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkoKacprzak/angular-2-komponenty/issues"
+  },
+  "homepage": "https://github.com/MarkoKacprzak/angular-2-komponenty#readme",
+  "devDependencies": {
+    "jspm": "^0.16.53"
+  },
+  "jspm": {
+    "dependencies": {
+      "@angular/common": "npm:@angular/common@^4.1.1",
+      "@angular/compiler": "npm:@angular/compiler@^4.1.1",
+      "@angular/core": "npm:@angular/core@^4.1.1",
+      "@angular/platform-browser": "npm:@angular/platform-browser@^4.1.1",
+      "@angular/platform-browser-dynamic": "npm:@angular/platform-browser-dynamic@^4.1.1",
+      "reflect-metadata": "npm:reflect-metadata@^0.1.10",
+      "rxjs": "npm:rxjs@^5.3.1",
+      "text": "github:systemjs/plugin-text@^0.0.9",
+      "zone.js": "npm:zone.js@^0.8.10"
+    },
+    "devDependencies": {
+      "typescript": "npm:typescript@^2.0.7"
+    }
+  }
+}
